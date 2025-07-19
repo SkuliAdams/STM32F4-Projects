@@ -83,6 +83,14 @@ void Error_Handler(void);
 #define SPI1_MOSI_GPIO_Port GPIOA
 #define BOOT1_Pin GPIO_PIN_2
 #define BOOT1_GPIO_Port GPIOB
+#define LED1_Pin GPIO_PIN_7
+#define LED1_GPIO_Port GPIOE
+#define LED2_Pin GPIO_PIN_9
+#define LED2_GPIO_Port GPIOE
+#define LED3_Pin GPIO_PIN_11
+#define LED3_GPIO_Port GPIOE
+#define LED4_Pin GPIO_PIN_13
+#define LED4_GPIO_Port GPIOE
 #define CLK_IN_Pin GPIO_PIN_10
 #define CLK_IN_GPIO_Port GPIOB
 #define LD4_Pin GPIO_PIN_12
